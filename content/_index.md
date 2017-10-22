@@ -3,7 +3,8 @@ title: "_Index"
 ---
 
 # Willkommen in der Studentenstadt Freimann
-Die Studentenstadt Freimann („StuSta“) in München ist mit knapp 2500 Studierenden eines der größten Studentenwohnheime Deutschlands. Betrieben wird sie vom [Studentenwerk München](http://www.stwm.de/wohnen), Eigentümer ist der [Studentenstadt München e.V.](http://www.studentenstadt-muenchen.de/).
+Die Studentenstadt Freimann („StuSta“) in München ist mit knapp 2500 Studierenden eines der größten Studentenwohnheime Deutschlands.
+Betrieben wird sie vom [Studentenwerk München](http://www.stwm.de/wohnen), Eigentümer ist der [Studentenstadt München e.V.](http://www.studentenstadt-muenchen.de/).
 
 {{% ribbon %}}
 {{% two-columns %}}
@@ -11,7 +12,10 @@ Die Studentenstadt Freimann („StuSta“) in München ist mit knapp 2500 Studie
 ## Ich will hier wohnen!
 [Wie man sich für einen Wohnheimsplatz bewirbt](http://www.studentenwerk-muenchen.de/wohnen/wohnanlagen-des-studentenwerks-muenchen/wie-bewerbe-ich-mich/).
 
-[how to apply](http://www.studentenwerk-muenchen.de/en/accommodation/munich-student-union-student-halls-of-residence/how-do-i-apply/), [comment effectuer ton demande](http://www.studentenwerk-muenchen.de/fr/logement/les-residences-universitaires-du-studentenwerk/comment-effectuer-ma-demande/), [如何申请宿舍](http://www.studentenwerk-muenchen.de/zh/wohnen/wohnanlagen-des-studentenwerks-muenchen/wie-bewerbe-ich-mich/)
+* [how to apply](http://www.studentenwerk-muenchen.de/en/accommodation/munich-student-union-student-halls-of-residence/how-do-i-apply/)
+* [comment effectuer ton demande](http://www.studentenwerk-muenchen.de/fr/logement/les-residences-universitaires-du-studentenwerk/comment-effectuer-ma-demande/)
+* [如何申请宿舍](http://www.studentenwerk-muenchen.de/zh/wohnen/wohnanlagen-des-studentenwerks-muenchen/wie-bewerbe-ich-mich/)
+
 {{% /column %}}
 {{% column %}}
 ## Ich lebe in der StuSta!
