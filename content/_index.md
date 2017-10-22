@@ -33,6 +33,7 @@ Dort gibt es **deutlich mehr Informationen** für alle, die bereits in der Stust
 * [Wikipedia](http://de.wikipedia.org/wiki/Studentenstadt_Freimann)
 * [Karte](https://www.openstreetmap.org/way/309955347) / [Luftbild](http://www.bing.com/maps/?v=2&cp=s0xfkfhz0txs&lvl=17.59&dir=6.53&sty=b&form=LMLTCC)
 * [Bilder](https://commons.wikimedia.org/wiki/Category:Studentenstadt)
+* [Webcam Nord](http://www.foto-webcam.eu/webcam/freimann/) / [Webcam Süd](http://www.foto-webcam.eu/webcam/muenchen/)
 
 ## Rund um die Studentenstadt
 ### Netzwerk
