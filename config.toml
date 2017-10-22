@@ -1,4 +1,4 @@
-baseURL = "http://hugo.test/"
+baseURL = "http://stusta.zoidberg.stusta.de/"
 canonifyURLs = true
 languageCode = "en-us"
 defaultContentLanguage = "en"
