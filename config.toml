@@ -1,9 +1,18 @@
 baseURL = "http://stusta.zoidberg.stusta.de/"
 canonifyURLs = true
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "de-DE"
+defaultContentLanguage = "de"
 title = "Studentenstadt Freimann"
 enableRobotsTXT = true
 disableHugoGeneratorInject = true
 disableKinds = ["RSS"]
 enableGitInfo = false
+
+
+[Languages]
+[Languages.en]
+weight = 1
+languageCode = "en-US"
+
+[Languages.de]
+weight = 2
