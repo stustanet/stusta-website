@@ -3,7 +3,7 @@ title: "_Index"
 ---
 
 # Willkommen in der Studentenstadt Freimann
-Die Studentenstadt Freimann („StuSta“) in München ist mit knapp 2500 Studierenden eines der größten Studentenwohnheime Deutschlands. Betrieben wird sie vom [Studentenwerk München](http://www.stwm.de/wohnen), Eigentümer ist der Verein [Studentenstadt München e.V.](http://www.studentenstadt-muenchen.de/).
+Die Studentenstadt Freimann („StuSta“) in München ist mit knapp 2500 Studierenden eines der größten Studentenwohnheime Deutschlands. Betrieben wird sie vom [Studentenwerk München](http://www.stwm.de/wohnen), Eigentümer ist der [Studentenstadt München e.V.](http://www.studentenstadt-muenchen.de/).
 
 {{% ribbon %}}
 {{% two-columns %}}
