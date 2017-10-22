@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    {{ if and (isset .Params "noindex") .Params.noindex }}
+      <meta name="robots" content="noindex">
+    {{ end }}
+
+    <link href='/styles.css' rel='stylesheet' type="text/css" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="canonical" href="{{ .Permalink }}">
+  </head>
+  <body class="{{ $.Param "body_classes"}}">
+    <header id="site-header">
+      <div class="container">
+        <h1>{{ .Site.Title }}</h1>
+      </div>
+    </header>
+    <main role="main">
+      <article>
+        {{ .Content }}
+      </article>
+    </main>
+    <footer>
+      <div class="container">
+        <a href="https://stustanet.de/impressum">Impressum</a>
+      </div>
+    </footer>
+  </body>
+</html>

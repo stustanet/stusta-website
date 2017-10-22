@@ -1,0 +1,9 @@
+baseURL = "http://hugo.test/"
+canonifyURLs = true
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Studentenstadt Freimann"
+enableRobotsTXT = true
+disableHugoGeneratorInject = true
+disableKinds = ["RSS"]
+enableGitInfo = false
