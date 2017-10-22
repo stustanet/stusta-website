@@ -191,6 +191,11 @@ a:hover, a:active {
     column-rule: 1px solid #D5D5D5;
 }
 
+.container ul,
+.container ol {
+    padding-left: 0;
+}
+
 footer {
     background: #363636;
 }
