@@ -4,7 +4,7 @@ defaultContentLanguage = "de"
 title = "Studentenstadt Freimann"
 enableRobotsTXT = true
 disableHugoGeneratorInject = true
-disableKinds = ["RSS"]
+disableKinds = ["RSS","taxonomy","taxonomyTerm"]
 enableGitInfo = false
 
 
