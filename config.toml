@@ -9,12 +9,12 @@ enableGitInfo = false
 
 
 [Languages]
-[Languages.en]
-weight = 1
-languageCode = "en-US"
-languageName = "English"
-
 [Languages.de]
-weight = 2
+weight = 1
 languageCode = "de-DE"
 languageName = "Deutsch"
+
+[Languages.en]
+weight = 2
+languageCode = "en-US"
+languageName = "English"
