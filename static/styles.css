@@ -310,6 +310,7 @@ footer {
 footer .editPage {
     float: left;
     padding: 15px;
+    margin-right: -100px;
 }
 
 footer .editPage a {
