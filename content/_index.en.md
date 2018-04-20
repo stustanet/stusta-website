@@ -1,5 +1,6 @@
 ---
 title: "_Index"
+description: "Studentenstadt Freimann is one of Germany's largest student dorms"
 ---
 
 # Welcome to Studentenstadt Freimann
@@ -13,8 +14,8 @@ It is operated by the [Student Union Munich](http://www.studentenwerk-muenchen.d
 [How to apply for an apartment](http://www.studentenwerk-muenchen.de/en/student-accommodation/application/).
 
 * [Wie bewerben](http://www.studentenwerk-muenchen.de/wohnen/bewerbung/)
-* [comment effectuer ton demande](http://www.studentenwerk-muenchen.de/fr/logement/les-residences-universitaires-du-studentenwerk/comment-effectuer-ma-demande/)
-* [如何申请宿舍](http://www.studentenwerk-muenchen.de/zh/wohnen/wohnanlagen-des-studentenwerks-muenchen/wie-bewerbe-ich-mich/)
+* [comment effectuer ton demande](http://www.studentenwerk-muenchen.de/fr/logement/candidature/)
+* [如何申请宿舍](http://www.studentenwerk-muenchen.de/zh/wohnen/bewerbung/)
 
 {{% /column %}}
 {{% column %}}
@@ -29,7 +30,7 @@ It has **much more informationen** for residents of the Studtentenstadt.
 
 ## Informationen about the StuSta
 * [Informationen of the Student Union Munich](http://www.studentenwerk-muenchen.de/en/student-accommodation/halls-of-residence/munich/north-munich/studentenstadt-freimann-halls-of-residence/)
-* [Application for an apartment](http://www.studentenwerk-muenchen.de/en/student-accommodation/application/) ([German](http://www.studentenwerk-muenchen.de/wohnen/bewerbung/), [français](http://www.studentenwerk-muenchen.de/fr/logement/les-residences-universitaires-du-studentenwerk/comment-effectuer-ma-demande/), [汉语/Chinese](http://www.studentenwerk-muenchen.de/zh/wohnen/wohnanlagen-des-studentenwerks-muenchen/wie-bewerbe-ich-mich/))
+* [Application for an apartment](http://www.studentenwerk-muenchen.de/en/wohnen/bewerbung/) ([German](http://www.studentenwerk-muenchen.de/wohnen/bewerbung/), [français](http://www.studentenwerk-muenchen.de/fr/wohnen/bewerbung/), [汉语/Chinese](http://www.studentenwerk-muenchen.de/zh/wohnen/bewerbung/))
 * [Wikipedia](https://en.wikipedia.org/wiki/Studentenstadt)
 * [Map](https://www.openstreetmap.org/way/309955347) / [Birds View](http://www.bing.com/maps/?v=2&cp=s0xfkfhz0txs&lvl=17.59&dir=6.53&sty=b&form=LMLTCC)
 * [Pictures](https://commons.wikimedia.org/wiki/Category:Studentenstadt)

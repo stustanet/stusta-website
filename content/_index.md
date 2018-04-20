@@ -1,5 +1,6 @@
 ---
 title: "_Index"
+description: "Studentenstadt Freimann ist eines der größten Studentenwohnheime Deutschlands"
 ---
 
 # Willkommen in der Studentenstadt Freimann
@@ -12,9 +13,9 @@ Betrieben wird sie vom [Studentenwerk München](http://www.stwm.de/wohnen), Eige
 ## Ich will hier wohnen!
 [Wie man sich für einen Wohnheimsplatz bewirbt](http://www.studentenwerk-muenchen.de/wohnen/bewerbung/).
 
-* [how to apply](http://www.studentenwerk-muenchen.de/en/accommodation/munich-student-union-student-halls-of-residence/how-do-i-apply/)
-* [comment effectuer ton demande](http://www.studentenwerk-muenchen.de/fr/logement/les-residences-universitaires-du-studentenwerk/comment-effectuer-ma-demande/)
-* [如何申请宿舍](http://www.studentenwerk-muenchen.de/zh/wohnen/wohnanlagen-des-studentenwerks-muenchen/wie-bewerbe-ich-mich/)
+* [how to apply](http://www.studentenwerk-muenchen.de/en/student-accommodation/application/)
+* [comment effectuer ton demande](http://www.studentenwerk-muenchen.de/fr/logement/candidature/)
+* [如何申请宿舍](http://www.studentenwerk-muenchen.de/zh/wohnen/bewerbung/)
 
 {{% /column %}}
 {{% column %}}
@@ -29,7 +30,7 @@ Dort gibt es **deutlich mehr Informationen** für alle, die bereits in der Stust
 
 ## Informationen über die StuSta
 * [Informationen des Studentenwerks München](http://www.studentenwerk-muenchen.de/wohnen/wohnanlagen-des-studentenwerks-muenchen/muenchen/muenchen-nord/studentenstadt-freimann/)
-* [Bewerbung um einen Wohnplatz](http://www.studentenwerk-muenchen.de/wohnen/wohnanlagen-des-studentenwerks-muenchen/wie-bewerbe-ich-mich/) ([english](http://www.studentenwerk-muenchen.de/en/student-accommodation/application/), [français](http://www.studentenwerk-muenchen.de/fr/logement/les-residences-universitaires-du-studentenwerk/comment-effectuer-ma-demande/), [汉语/chinese](http://www.studentenwerk-muenchen.de/zh/wohnen/wohnanlagen-des-studentenwerks-muenchen/wie-bewerbe-ich-mich/))
+* [Bewerbung um einen Wohnplatz](http://www.studentenwerk-muenchen.de/wohnen/bewerbung/) ([english](http://www.studentenwerk-muenchen.de/en/wohnen/bewerbung/), [français](http://www.studentenwerk-muenchen.de/fr/wohnen/bewerbung/), [汉语/chinese](http://www.studentenwerk-muenchen.de/zh/wohnen/bewerbung/))
 * [Wikipedia](http://de.wikipedia.org/wiki/Studentenstadt_Freimann)
 * [Karte](https://www.openstreetmap.org/way/309955347) / [Luftbild](http://www.bing.com/maps/?v=2&cp=s0xfkfhz0txs&lvl=17.59&dir=6.53&sty=b&form=LMLTCC)
 * [Bilder](https://commons.wikimedia.org/wiki/Category:Studentenstadt)

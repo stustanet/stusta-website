@@ -25,7 +25,6 @@ body {
     color: #FFF;
     height: 180px;
     vertical-align: middle;
-    position: absolute;
     position: fixed;
     top: 0;
     left: 0;
@@ -53,6 +52,7 @@ body {
     color: #EDEDED;
     cursor: default;
     position: relative;
+    display: inline;
 }
 
 .lang-dropdown a {
@@ -90,13 +90,13 @@ body {
 }
 
 .lang-dropdown li {
-    background-color: #313131;
+    background-color: #454545;
     position: relative;
     line-height: 24px;
     vertical-align: middle;
 }
 .lang-dropdown li:hover {
-    background-color:#444;
+    background-color:#555;
 }
 .lang-dropdown li:first-child {
     border-radius: 3px 3px 0 0;
@@ -108,10 +108,13 @@ body {
     width: 1px;
     height: 1px;
     border: 5px solid transparent;
-    border-bottom-color: #313131;
+    border-bottom-color: #454545;
     left: 50%;
     top: -11px;
     margin-left: -5px;
+}
+.lang-dropdown ul.up li:first-child:before {
+    display: none;
 }
 .lang-dropdown li:last-child {
     border-radius: 0 0 3px 3px;
@@ -128,7 +131,7 @@ body {
     width: 1px;
     height: 1px;
     border: 5px solid transparent;
-    border-top-color: #313131;
+    border-top-color: #454545;
     left: 50%;
     bottom: -11px;
     margin-left: -5px;
@@ -260,7 +263,7 @@ code {
 }
 
 a {
-    color: #3273dc;
+    color: #1b54ac;
     cursor: pointer;
     text-decoration: none;
 }
@@ -304,33 +307,34 @@ a:hover, a:active {
 
 footer {
     background: #363636;
-    position: relative;
+    display: flex;
 }
 
 footer .editPage {
-    float: left;
     padding: 15px;
-    margin-right: -100px;
+    flex: 1 1 0;
 }
 
 footer .editPage a {
     background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAANlBMVEUAAADv7+/v7+/v7+/v7+/s7Ozs7Ozt7e3t7e3t7e3s7Ozs7Ozs7Ozs7Ozt7e3t7e3t7e3t7e3ECRl9AAAAEXRSTlMAECAwQFBgkJ+gr7C/wNDv8A/g33EAAABLSURBVHjarchBAoAgDAPBUCqISjX//6xyMnh2bztIGw+DtJMNSWB8OfML/XlSxMZPki5+JP8p4R0qsaCZigNeIdJXR0CzGiyYK+0GziYE48hUzCUAAAAASUVORK5CYII=) no-repeat;
     padding-left: 20px;
+    margin-right: auto;
 }
 
 footer a {
     color: #EDEDED;
 }
 
-footer .container {
+footer .imprint {
     padding: 15px;
-    text-align: center;
+    text-align: center; 
+    flex: 1 1 0;
 }
 
-footer .lang-dropdown {
-    position: absolute;
-    right: 20px;
-    bottom: 14px;
+footer .lang-dropdown-container {
+    padding: 15px;
+    flex: 1 1 0;
+    text-align: right;
 }
 
 @media (max-width: 720px) {
