@@ -1,4 +1,4 @@
-baseURL = "http://stusta.zoidberg.stusta.de/"
+baseURL = "https://www.stusta.de/"
 canonifyURLs = true
 defaultContentLanguage = "de"
 title = "Studentenstadt Freimann"
