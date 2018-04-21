@@ -63,7 +63,7 @@
             {{ $lang := .Site.Language }}
             {{ range .Site.Languages }}
               <li>
-                <a href="{{ delimit (slice "/" .) "" }}" class="lang">
+                <a href="{{ delimit (slice "/" . "/") "" }}" class="lang">
                   <span class="shorthand">{{ .Lang }}</span>{{ .LanguageName }}
                 </a>
               </li>
