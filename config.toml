@@ -1,6 +1,7 @@
 baseURL = "https://www.stusta.de/"
 canonifyURLs = true
 defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = true
 title = "Studentenstadt Freimann"
 enableRobotsTXT = true
 disableHugoGeneratorInject = true
