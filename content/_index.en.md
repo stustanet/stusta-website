@@ -23,7 +23,7 @@ It is operated by the [Student Union Munich](http://www.studentenwerk-muenchen.d
 Then visit the **[internal Wiki](https://wiki.stusta.de/) for residents**.<br>
 (Accessible only from within the StuSta).
 
-It has **much more informationen** for residents of the Studtentenstadt.
+It contains **much more information** for residents of the StuSta.
 {{% /column %}}
 {{% /two-columns %}}
 {{% /ribbon %}}
