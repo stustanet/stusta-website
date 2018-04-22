@@ -5,7 +5,7 @@ description: "Studentenstadt Freimann ist eines der größten Studentenwohnheime
 
 # Willkommen in der Studentenstadt Freimann
 Die Studentenstadt Freimann („StuSta“) in München ist mit knapp 2500 Studierenden eines der größten Studentenwohnheime Deutschlands.
-Betrieben wird sie vom [Studentenwerk München](http://www.stwm.de/wohnen), Eigentümer ist der [Studentenstadt München e.V.](http://www.studentenstadt-muenchen.de/).
+Betrieben wird sie vom [Studentenwerk München](http://www.stwm.de/wohnen), Eigentümer ist der [Studentenstadt München e. V.](http://www.studentenstadt-muenchen.de/).
 
 {{% ribbon %}}
 {{% two-columns %}}
@@ -41,15 +41,15 @@ Dort gibt es **deutlich mehr Informationen** für alle, die bereits in der Stust
 Der [StuStaNet e. V.](https://stustanet.de/) kümmert sich um die Netzwerkanbindung der Studentenstadt.
 
 ### Events
-Hauptaufgabe des [Kulturleben in der Studentenstadt e.V.](http://www.verein-kulturleben.de/) ist die Organisation des jährlich stattfindenden [StuStaCulums](https://www.stustaculum.de/), dem größten studentischen Theater- und Musikfestival Deutschlands.
+Hauptaufgabe des [Kulturleben in der Studentenstadt e. V.](http://www.verein-kulturleben.de/) ist die Organisation des jährlich stattfindenden [StuStaCulums](https://www.stustaculum.de/), dem größten studentischen Theater- und Musikfestival Deutschlands.
 
 ### Sport
 
-Der [Sportverein der Studentenstadt Freimann e.V.](http://www.svsf.de/) beitet eine Vielzahl von Sportarten in unserer eigenen Sporthalle an. Unter anderem hat er eine sehr erfolgreiche [Rugbymannschaft](http://www.stusta-rugby.de/).
+Der [Sportverein der Studentenstadt Freimann e. V.](http://www.svsf.de/) beitet eine Vielzahl von Sportarten in unserer eigenen Sporthalle an. Unter anderem hat er eine sehr erfolgreiche [Rugbymannschaft](http://www.stusta-rugby.de/).
 
 ### Ehemalige
 
-Der [StuSta-Alumni e.V.](http://alumni.stusta.de) ist eine Organisation ehemaliger Bewohner, die untereinander und mit der Stusta in Kontakt bleiben wollen.
+Der [StuSta-Alumni e. V.](http://alumni.stusta.de) ist eine Organisation ehemaliger Bewohner, die untereinander und mit der Stusta in Kontakt bleiben wollen.
 
 ### Gemeinschaftseinrichtungen
 Zusätzlich gibt es Gemeinschaftsräume, Bars, Getränkeverkauf und Kulturprogramm für unsere Bewohner.

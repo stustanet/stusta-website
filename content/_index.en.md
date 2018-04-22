@@ -5,7 +5,7 @@ description: "Studentenstadt Freimann is one of Germany's largest student dorms"
 
 # Welcome to Studentenstadt Freimann
 The Studentenstadt Freimann (lit. “Student town”, often abbreviated as “StuSta”) in Munich is, with its 2500 residents, one of Germany's largest student dorms.
-It is operated by the [Student Union Munich](http://www.studentenwerk-muenchen.de/en/student-accommodation/), owner is the [Studentenstadt München e.V.](http://www.studentenstadt-muenchen.de/).
+It is operated by the [Student Union Munich](http://www.studentenwerk-muenchen.de/en/student-accommodation/), owner is the [Studentenstadt München e. V.](http://www.studentenstadt-muenchen.de/).
 
 {{% ribbon %}}
 {{% two-columns %}}
@@ -41,7 +41,7 @@ It contains **much more information** for residents of the StuSta.
 The [StuStaNet e. V.](https://stustanet.de/) manages the network access in the Studentenstadt.
 
 ### Events
-The main task of the [Kulturleben in der Studentenstadt e.V.](http://www.verein-kulturleben.de/) *(culture life in Studentenstadt)* is the organization of the annual student festival [StuStaCulums](https://www.stustaculum.de/).
+The main task of the [Kulturleben in der Studentenstadt e. V.](http://www.verein-kulturleben.de/) *(culture life in Studentenstadt)* is the organization of the annual student festival [StuStaCulums](https://www.stustaculum.de/).
 
 ### Sports
 There's a [sports club in Studentenstadt](http://www.svsf.de/), which offers all kinds of sports in StuSta's own sports hall. This club also manages a very successful [rugby team](http://www.stusta-rugby.de/).
