@@ -29,8 +29,8 @@ It contains **much more information** for residents of the StuSta.
 {{% /ribbon %}}
 
 ## Informationen about the StuSta
-* [Informationen of the Student Union Munich](http://www.studentenwerk-muenchen.de/en/student-accommodation/halls-of-residence/munich/north-munich/studentenstadt-freimann-halls-of-residence/)
-* [Application for an apartment](http://www.studentenwerk-muenchen.de/en/wohnen/bewerbung/) ([German](http://www.studentenwerk-muenchen.de/wohnen/bewerbung/), [français](http://www.studentenwerk-muenchen.de/fr/wohnen/bewerbung/), [汉语/Chinese](http://www.studentenwerk-muenchen.de/zh/wohnen/bewerbung/))
+* [Informationen of the Student Union Munich](https://www.studentenwerk-muenchen.de/en/student-accommodation/halls-of-residence/munich/north-munich/studentenstadt-freimann-halls-of-residence/)
+* [Application for an apartment](https://www.studentenwerk-muenchen.de/en/student-accommodation/application/) ([German](https://www.studentenwerk-muenchen.de/wohnen/bewerbung/), [français](https://www.studentenwerk-muenchen.de/fr/logement/candidature/), [汉语/Chinese](http://www.studentenwerk-muenchen.de/zh/wohnen/bewerbung/))
 * [Wikipedia](https://en.wikipedia.org/wiki/Studentenstadt)
 * [Map](https://www.openstreetmap.org/way/309955347) / [Birds View](http://www.bing.com/maps/?v=2&cp=s0xfkfhz0txs&lvl=17.59&dir=6.53&sty=b&form=LMLTCC)
 * [Pictures](https://commons.wikimedia.org/wiki/Category:Studentenstadt)
