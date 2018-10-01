@@ -29,19 +29,19 @@ Dort gibt es **deutlich mehr Informationen** für alle, die bereits in der Stust
 {{% /ribbon %}}
 
 ## Informationen über die StuSta
-* [Informationen des Studentenwerks München](http://www.studentenwerk-muenchen.de/wohnen/wohnanlagen-des-studentenwerks-muenchen/muenchen/muenchen-nord/studentenstadt-freimann/)
-* [Bewerbung um einen Wohnplatz](http://www.studentenwerk-muenchen.de/wohnen/bewerbung/) ([english](http://www.studentenwerk-muenchen.de/en/wohnen/bewerbung/), [français](http://www.studentenwerk-muenchen.de/fr/wohnen/bewerbung/), [汉语/chinese](http://www.studentenwerk-muenchen.de/zh/wohnen/bewerbung/))
-* [Wikipedia](http://de.wikipedia.org/wiki/Studentenstadt_Freimann)
+* [Informationen des Studentenwerks München](https://www.studentenwerk-muenchen.de/wohnen/wohnanlagen-des-studentenwerks-muenchen/muenchen/muenchen-nord/studentenstadt-freimann/)
+* [Bewerbung um einen Wohnplatz](https://www.studentenwerk-muenchen.de/wohnen/bewerbung/) ([english](https://www.studentenwerk-muenchen.de/en/student-accommodation/application/), [français](https://www.studentenwerk-muenchen.de/fr/logement/candidature/), [汉语/chinese](https://www.studentenwerk-muenchen.de/zh/wohnen/bewerbung/))
+* [Wikipedia](https://de.wikipedia.org/wiki/Studentenstadt_Freimann)
 * [Karte](https://www.openstreetmap.org/way/309955347) / [Luftbild](http://www.bing.com/maps/?v=2&cp=s0xfkfhz0txs&lvl=17.59&dir=6.53&sty=b&form=LMLTCC)
 * [Bilder](https://commons.wikimedia.org/wiki/Category:Studentenstadt)
-* [Webcam Nord](http://www.foto-webcam.eu/webcam/freimann/) / [Webcam Süd](http://www.foto-webcam.eu/webcam/muenchen/)
+* [Webcam Nord](https://www.foto-webcam.eu/webcam/freimann/) / [Webcam Süd](https://www.foto-webcam.eu/webcam/muenchen/)
 
 ## Rund um die Studentenstadt
 ### Netzwerk
 Der [StuStaNet e. V.](https://stustanet.de/) kümmert sich um die Netzwerkanbindung der Studentenstadt.
 
 ### Events
-Hauptaufgabe des [Kulturleben in der Studentenstadt e. V.](http://www.verein-kulturleben.de/) ist die Organisation des jährlich stattfindenden [StuStaCulums](https://www.stustaculum.de/), dem größten studentischen Theater- und Musikfestival Deutschlands.
+Hauptaufgabe des [Kulturleben in der Studentenstadt e. V.](https://www.verein-kulturleben.de/) ist die Organisation des jährlich stattfindenden [StuStaCulums](https://www.stustaculum.de/), dem größten studentischen Theater- und Musikfestival Deutschlands.
 
 ### Sport
 
