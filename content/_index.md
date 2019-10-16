@@ -33,7 +33,7 @@ Dort gibt es **deutlich mehr Informationen** für alle, die bereits in der Stust
 * [Bewerbung um einen Wohnplatz](https://www.studentenwerk-muenchen.de/wohnen/bewerbung/) ([english](https://www.studentenwerk-muenchen.de/en/student-accommodation/application/), [français](https://www.studentenwerk-muenchen.de/fr/logement/candidature/), [汉语/chinese](https://www.studentenwerk-muenchen.de/zh/wohnen/bewerbung/))
 * [Wikipedia](https://de.wikipedia.org/wiki/Studentenstadt_Freimann)
 * [Karte](https://www.openstreetmap.org/way/309955347) / [Luftbild](http://www.bing.com/maps/?v=2&cp=s0xfkfhz0txs&lvl=17.59&dir=6.53&sty=b&form=LMLTCC)
-* [Bilder](https://commons.wikimedia.org/wiki/Category:Studentenstadt)
+* [Bilder](https://commons.wikimedia.org/wiki/Category:Studentenstadt_Freimann)
 * [Webcam Nord](https://www.foto-webcam.eu/webcam/freimann/) / [Webcam Süd](https://www.foto-webcam.eu/webcam/muenchen/)
 
 ## Rund um die Studentenstadt

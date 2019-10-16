@@ -33,7 +33,7 @@ It contains **much more information** for residents of the StuSta.
 * [Application for an apartment](https://www.studentenwerk-muenchen.de/en/student-accommodation/application/) ([German](https://www.studentenwerk-muenchen.de/wohnen/bewerbung/), [français](https://www.studentenwerk-muenchen.de/fr/logement/candidature/), [汉语/Chinese](http://www.studentenwerk-muenchen.de/zh/wohnen/bewerbung/))
 * [Wikipedia](https://en.wikipedia.org/wiki/Studentenstadt)
 * [Map](https://www.openstreetmap.org/way/309955347) / [Birds View](http://www.bing.com/maps/?v=2&cp=s0xfkfhz0txs&lvl=17.59&dir=6.53&sty=b&form=LMLTCC)
-* [Pictures](https://commons.wikimedia.org/wiki/Category:Studentenstadt)
+* [Pictures](https://commons.wikimedia.org/wiki/Category:Studentenstadt_Freimann)
 * [Webcam North](http://www.foto-webcam.eu/webcam/freimann/) / [Webcam South](http://www.foto-webcam.eu/webcam/muenchen/)
 
 ## About Studentenstadt
