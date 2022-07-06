@@ -5,7 +5,7 @@ description: "Studentenstadt Freimann is one of Germany's largest student dorms"
 
 # Welcome to Studentenstadt Freimann
 The Studentenstadt Freimann (lit. “Student town”, often abbreviated as “StuSta”) in Munich is, with its 2500 residents, one of Germany's largest student dorms.
-It is operated by the [Student Union Munich](http://www.studentenwerk-muenchen.de/en/student-accommodation/), owner is the [Studentenstadt München e. V.](http://www.studentenstadt-muenchen.de/).
+It is owned and operated by the [Student Union Munich](http://www.studentenwerk-muenchen.de/en/student-accommodation/), and originally built by the [Studentenstadt München e. V.](http://www.studentenstadt-muenchen.de/).
 
 {{% ribbon %}}
 {{% two-columns %}}
