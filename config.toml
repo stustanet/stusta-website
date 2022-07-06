@@ -22,3 +22,9 @@ languageName = "Deutsch"
 weight = 2
 languageCode = "en-US"
 languageName = "English"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
